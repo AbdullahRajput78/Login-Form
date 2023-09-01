@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.img {
+
+    background: url(./abstract-sky-background-sweet-color_6529-1656.avif);
+    height: 578px;
+    width: 100%;
+    color: antiquewhite;
+    background-repeat: no-repeat, repeat;
+    background-size: 100% 800px;
+    position: absolute;
+}
+
+/* profile photo section */
+.uper {
+    background-color: rgb(22, 22, 42);
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: -70px;
+    margin-left: 33%;
+}
+
+.user {
+    font-size: 4rem;
+    margin-left: 26%;
+    margin-top: 17%;
+}
+/* .................................... */
+
+.border1 {
+    width: 370px;
+    height: 280px;
+    background-color: rgba(255, 255, 255, 0.306);
+    border-radius: 35px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 130px;
+    margin-left: 35%;
+    position: relative;
+}
+
+.border2 {
+    height: 40px;
+    width: 250px;
+    background-color: rgba(255, 255, 255, 0.306);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-left: 40%;
+    position: absolute;
+    font-weight: 800;
+    font-size: large;
+    color: rgb(255, 255, 255);
+    border: 2px rgba(255, 255, 255, 0.306);
+}
+
+/* email of user */
+
+.email2 {
+    margin-top: 22%;
+    position: absolute;
+    margin-left: 39px;
+}
+
+.icon {
+    height: 33.5px;
+    width: 30px;
+    background-color: rgb(22, 22, 42);
+    position: absolute;
+}
+
+.hh {
+    margin-left: 9px;
+    margin-top: 7px;
+}
+
+.email {
+    height: 30px;
+    width: 250px;
+    margin-left: 30px;
+    background-color: rgba(34, 34, 92, 0.833);
+    border: 2px solid rgba(34, 34, 92, 0.833);
+    color: white;
+
+}
+/* ...................................... */
+
+/* password of user */
+
+.password {
+    height: 30px;
+    width: 250px;
+    margin-left: 30px;
+    background-color: rgba(34, 34, 92, 0.833);
+    border: 2px solid rgba(34, 34, 92, 0.833);
+    margin-top: 43.3%;
+    color: white;
+
+
+}
+
+.icon2 {
+    height: 33px;
+    width: 30px;
+    background-color: rgb(22, 22, 42);
+    margin-top: 39%;
+    position: absolute;
+}
+
+.lock {
+    margin-left: 8px;
+    margin-top: 7px;
+}
+
+.email3 {
+    margin-left: 38px;
+
+}
+/* ........................................ */
+.remember{ 
+    color: rgba(34, 34, 92, 0.833);
+    position: absolute;
+}
+/* ................. */
+
+/* forgot password */ 
+.for{
+    color:rgba(34, 34, 92, 0.833) ;
+    margin-left: 45%;
+}
+
+/* forgot password or remeber me adjustment */
+.rfor{
+    margin-top:9%;
+    margin-left: 12%;
+}
